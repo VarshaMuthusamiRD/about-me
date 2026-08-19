@@ -3,6 +3,11 @@
 - it reverses all of the doings of last prompt to how the codebase was before the last prompt
 
 
-C — Context, goal, constraints, acceptance criteria plus examples, but also point at an existing file and say "follow this pattern", and name two things that must not happen.
+2. C — Context, goal, constraints, acceptance criteria plus examples, but also point at an existing file and say "follow this pattern", and name two things that must not happen.
 
 - provides the expected result with less to no questions.
+
+3. resolving merge conflicts:
+
+hand resolve- go manually and resolve it part by part. both functionalities should not be lost and common functionalities should be merged and maintained with the better version
+ 
